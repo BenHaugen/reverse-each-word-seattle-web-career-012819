@@ -8,5 +8,5 @@ return array.join(" ")
 end
 
 def reverse_each_word(string)
-  string.split(" ") 
+  string.split(" ").collect
 end 
