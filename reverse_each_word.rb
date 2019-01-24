@@ -4,3 +4,4 @@ def reverse_each_word(string)
     word.reverse
   return new_array
 end
+end
